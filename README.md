@@ -1,6 +1,6 @@
 # Exercise 2a: Without a Skill
 
-Part of the workshop **AI Tools for Statistical Programming and Analysis**.
+Part of the workshop **AI-Powered Coding and Data Analysis**.
 
 Exercise 2 is the same project twice, with the same data, notebook, and prompt. This copy has **no** skills or agent instructions. The other copy is [`yale-ai-stats-02b-with-skill`](https://github.com/erikwestlund-teaching/yale-ai-stats-02b-with-skill).
 
